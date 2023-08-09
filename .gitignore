@@ -1,0 +1,31 @@
+# Log dosyaları
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime verisi
+pids
+*.pid
+*.seed
+*.log
+
+# Build dizini
+build/
+
+# Dependency dizinleri
+node_modules/
+jspm_packages/
+
+# IDE ve editörler için ayar dosyaları
+.vscode/
+*.swp
+*.swo
+*.swn
+*.sublime*
+.idea/
+
+# OS dosya ve klasörleri
+.DS_Store
+Thumbs.db

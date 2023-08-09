@@ -1,0 +1,6 @@
+{
+    "token": "",
+    "prefix": "?",
+    "amountOnMessage":0.01,
+    "amountOnVoiceChannel":0.01
+}
